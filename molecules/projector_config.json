@@ -1,0 +1,20 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "embedding",
+            "tensorPath": "embeddngs.tsv",
+            "tensorShape": [
+                897,
+                1024
+            ],
+            "metadataPath": "metadata.tsv",
+            "sprite": {
+                "imagePath": "mols_sprite.jpg",
+                "singleImageDim": [
+                    200,
+                    200
+                ]
+            }
+        }
+    ]
+}
