@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "embedding",
+            "tensorShape": [
+                4096,
+                100
+            ],
+            "tensorPath": "https://raw.githubusercontent.com/lzicar1/tensors/main/w2v_tensors.tsv",
+            "metadataPath": "https://raw.githubusercontent.com/lzicar1/tensors/main/metadata.tsv"
+        }
+    ]
+}
