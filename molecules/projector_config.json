@@ -9,7 +9,7 @@
             ],
             "metadataPath": "https://github.com/lzicar1/Tensorflow-projector/blob/b08d3546ce814478ac68d3cf8e3f2b24b6f57213/molecules/metadata.tsv?raw=true",
             "sprite": {
-                "imagePath": "https://github.com/lzicar1/Tensorflow-projector/blob/b08d3546ce814478ac68d3cf8e3f2b24b6f57213/molecules/mols_sprite.jpg?raw=true",
+                "imagePath": "https://github.com/lzicar1/Tensorflow-projector/blob/b08d3546ce814478ac68d3cf8e3f2b24b6f57213/molecules/mols_sprite.jpg",
                 "singleImageDim": [
                     200,
                     200
