@@ -2,14 +2,14 @@
     "embeddings": [
         {
             "tensorName": "embedding",
-            "tensorPath": "embeddngs.tsv",
+            "tensorPath": "https://github.com/lzicar1/Tensorflow-projector/raw/main/molecules/embeddings.tsv",
             "tensorShape": [
                 897,
                 1024
             ],
-            "metadataPath": "metadata.tsv",
+            "metadataPath": "https://github.com/lzicar1/Tensorflow-projector/raw/main/molecules/metadata.tsv",
             "sprite": {
-                "imagePath": "mols_sprite.jpg",
+                "imagePath": "https://github.com/lzicar1/Tensorflow-projector/raw/main/molecules/mols_sprite.jpg",
                 "singleImageDim": [
                     200,
                     200
